@@ -23,3 +23,4 @@
 ![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
