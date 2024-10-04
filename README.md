@@ -1,5 +1,5 @@
 <img src="header.png"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=beginner+front-end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=front-end+developer" alt="Typing SVG" /></a>
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ:</h2>
 
 - :man_student: Magistrancy student of MPEI
